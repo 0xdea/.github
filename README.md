@@ -24,4 +24,4 @@ I write code mainly in:
 [![Perl](https://img.shields.io/badge/-Perl-0298c3.svg?style=flat&logo=perl&logoColor=white)](https://www.perl.org/)
 [![Shell](https://img.shields.io/badge/-Shell-89e051.svg?style=flat&logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
 
-... and more. My personal homepage is [0xdeadbeef.info](https://0xdeadbeef.info/).
+My personal homepage is [0xdeadbeef.info](https://0xdeadbeef.info/).
