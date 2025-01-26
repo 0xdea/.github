@@ -17,11 +17,11 @@ I write code mainly in:
 
 [![Rust](https://img.shields.io/badge/-Rust-dea584.svg?style=flat&logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/-C-555555.svg?style=flat&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
-[![Assembly](https://img.shields.io/badge/-Assembly-6e4c13.svg?style=flat&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Python](https://img.shields.io/badge/-Python-3572a5?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-b07219.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat&logo=javascript&logoColor=black)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![Java](https://img.shields.io/badge/-Java-b07219.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Perl](https://img.shields.io/badge/-Perl-0298c3.svg?style=flat&logo=perl&logoColor=white)](https://www.perl.org/)
 [![Shell](https://img.shields.io/badge/-Shell-89e051.svg?style=flat&logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
+[![Assembly](https://img.shields.io/badge/-Assembly-6e4c13.svg?style=flat&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
 My personal homepage is [0xdeadbeef.info](https://0xdeadbeef.info/).
