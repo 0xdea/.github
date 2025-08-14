@@ -1,7 +1,7 @@
 ## Who's raptor?
-[![](https://img.shields.io/github/stars/0xdea?style=flat&color=yellow)](https://star-history.com/#0xdea/frida-scripts&0xdea/tactical-exploitation&0xdea/semgrep-rules&0xdea/exploits&0xdea/ghidra-scripts&0xdea/blindsight&Date)
+[![](https://img.shields.io/github/stars/0xdea?style=flat&color=yellow)](https://gitranks.com/country/Italy/stars/1)
 [![](https://user-badge.committers.top/italy/0xdea.svg?kill_cache=1)](https://user-badge.committers.top/italy/0xdea)
-[![](https://img.shields.io/github/followers/0xdea?style=flat&color=red)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/italy.md)
+[![](https://img.shields.io/github/followers/0xdea?style=flat&color=red)](https://gitranks.com/country/Italy/followers/1)
 [![](https://img.shields.io/badge/twitter-%400xdea-blue.svg)](https://twitter.com/0xdea)
 [![](https://img.shields.io/badge/mastodon-%40raptor-purple.svg)](https://infosec.exchange/@raptor)
 
