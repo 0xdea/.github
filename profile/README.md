@@ -15,4 +15,4 @@ As a polyglot programmer of [weird machines](https://www.exploit-db.com/?author=
 
 I write code mainly in:  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdea&layout=compact&theme=transparent&text_color=9198a1&hide_title=true&langs_count=10&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdea&layout=compact&theme=transparent&text_color=9198a1&hide_title=true&langs_count=10&hide=html,css&&exclude_repo=from-day-zero-to-zero-day)
