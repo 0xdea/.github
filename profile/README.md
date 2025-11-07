@@ -1,4 +1,5 @@
 ## Who's raptor?
+
 [![](https://img.shields.io/github/stars/0xdea?style=flat&color=yellow)](https://gitranks.com/country/Italy/stars/1)
 [![](https://img.shields.io/badge/contributor%20rank-top%206%25-brightgreen.svg)](https://gitranks.com/profile/0xdea)
 [![](https://img.shields.io/github/followers/0xdea?style=flat&color=red)](https://gitranks.com/country/Italy/followers/1)
@@ -7,7 +8,7 @@
 
 > "When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl."
 >
-> -- Anonymous 
+> -- Anonymous
 
 I'm Marco Ivaldi, a seasoned security researcher and tech leader with [over 25 years](https://web.archive.org/web/20240616125351/https://packetstormsecurity.com/files/author/191/) in offensive security. As a polyglot programmer of [weird machines](https://www.exploit-db.com/?author=315), I study [how things can go wrong](https://how.complexsystems.fail/). I've hacked on everything from old-school X.25 networks to modern mobile apps. These days, I'm the technical director and co-founder of [HN Security](https://hnsecurity.it/), a boutique firm specializing in tailored security assessments.
 
