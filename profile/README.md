@@ -16,4 +16,4 @@ My journey began in the '90s, when I co-founded [Linux&C](https://0xdeadbeef.inf
 
 I write code mainly in:  
 
-![](https://0xdea-readme-stats.vercel.app/api/top-langs/?username=0xdea&layout=compact&theme=transparent&text_color=9198a1&hide_title=true&langs_count=10&hide=html,css&&exclude_repo=from-day-zero-to-zero-day,0xdea-readme-stats)
+![](top-langs.svg)
