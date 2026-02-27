@@ -16,4 +16,4 @@ My journey began in the '90s, when I co-founded [Linux&C](https://0xdeadbeef.inf
 
 I write code mainly in:  
 
-![](./profile/top-langs.svg)
+![](/profile/top-langs.svg)
