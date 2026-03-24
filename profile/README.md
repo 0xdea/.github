@@ -1,7 +1,7 @@
 ## Who's raptor?
 
 [![](https://img.shields.io/github/stars/0xdea?style=flat&color=yellow)](https://gitranks.com/country/Italy/stars/1)
-[![](https://img.shields.io/badge/contributor%20rank-top%206%25-brightgreen.svg)](https://gitranks.com/profile/0xdea)
+[![](https://img.shields.io/badge/contributor%20rank-top%204%25-brightgreen.svg)](https://gitranks.com/profile/0xdea)
 [![](https://img.shields.io/github/followers/0xdea?style=flat&color=red)](https://gitranks.com/country/Italy/followers/1)
 [![](https://img.shields.io/badge/twitter-%400xdea-blue.svg)](https://twitter.com/0xdea)
 [![](https://img.shields.io/badge/mastodon-%40raptor-purple.svg)](https://infosec.exchange/@raptor)
