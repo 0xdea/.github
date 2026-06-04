@@ -13,10 +13,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=transparent&text_color=9198a1&hide_title=true&langs_count=10&hide=html,css&&exclude_repo=from-day-zero-to-zero-day
